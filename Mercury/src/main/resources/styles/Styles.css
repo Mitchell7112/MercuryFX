@@ -2,6 +2,33 @@
     -fx-font-weight: bold;
 }
 
-#newFormAcc {
-    -fx-border-color: "red"
+.titled-pane 
+{
+/*-fx-border-radius: 10px;*/
+
 }
+.titled-pane > .title 
+{
+-fx-color: #3f8d23;
+}
+
+#buttonDashboard
+{
+-fx-background-color: #d81e05;
+}
+
+#buttonZoekBagage
+{
+-fx-background-color: #d81e05;
+}
+
+#buttonManager
+{
+-fx-background-color: #d81e05;
+}
+
+#buttonLogUit {
+-fx-background-color: #00bce2;
+}
+
+
